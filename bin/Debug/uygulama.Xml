@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Line>using System;</Line>
+  <Line>using System.Collections.Generic;</Line>
+  <Line>using System.Text;</Line>
+  <Line>namespace FurkanSuayipYakup</Line>
+  <Line>{</Line>
+  <Line>class FlowChart</Line>
+  <Line>{</Line>
+  <Line>static void Main(string[] args)</Line>
+  <Line>{</Line>
+  <Line>a1();</Line>
+  <Line>}</Line>
+  <Line>public static void a1()</Line>
+  <Line>{</Line>
+  <Line>Console.WriteLine("hello world");</Line>
+  <Line>a2();</Line>
+  <Line>return;</Line>
+  <Line>}</Line>
+  <Line>public static void a2()</Line>
+  <Line>{</Line>
+  <Line>Console.ReadKey(true);</Line>
+  <Line>}</Line>
+  <Line>}</Line>
+  <Line>}</Line>
+</root>
